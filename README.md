@@ -1,4 +1,12 @@
-## Hi there 👋
+## datos personales
+estudiante de segundo año de ingenieria informatica | 19 años
+## lenguajes de programacion que conozco
+python
+java
+c#
+SQL
+## cosas que me gustan
+los videojuegos, musica en ingles 
 
 <!--
 **SnowFox19cl/SnowFox19cl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
