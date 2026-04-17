@@ -1,5 +1,5 @@
 ## datos personales
-estudiante de segundo año de ingenieria informatica | 19 años
+estudiante de segundo año de ingenieria informatica | 19 años | chileno
 ## lenguajes de programacion que conozco
 python
 java
