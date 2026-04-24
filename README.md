@@ -1,12 +1,18 @@
 ## datos personales
-estudiante de segundo año de ingenieria informatica | 19 años | chileno
-## lenguajes de programacion que conozco
-python
-java
-c#
+estudiante de programacion backend y frontend | 19 años
+## lenguajes de programacion/no programacion que conozco
+Python
+Java
+C#
 SQL
+Css
+Html
+JavaScript
 ## cosas que me gustan
 los videojuegos, musica en ingles 
+## mi futuro
+futuro ingeniero informatico
+
 
 <!--
 **SnowFox19cl/SnowFox19cl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
