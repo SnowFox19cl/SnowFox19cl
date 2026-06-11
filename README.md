@@ -1,18 +1,10 @@
-## datos personales
-estudiante de programacion backend y frontend | 19 años
-## lenguajes de programacion/no programacion que conozco
-Python
-Java
-C#
-SQL
-Css
-Html
-JavaScript
-## cosas que me gustan
-los videojuegos, musica en ingles 
-## mi futuro
-futuro ingeniero informatico
+## mi persona
+estudiante de 2°año de programación 
+## proyectos
+sistema gestion de cines  y peliculas con conexion a base de datos
+gestion de flota de camiones con conexion a base de datos
 
+actualmente aprendiendo programacion web con base de datos 
 
 <!--
 **SnowFox19cl/SnowFox19cl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
